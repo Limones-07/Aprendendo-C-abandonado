@@ -1,3 +1,4 @@
 # Aprendendo-C
 
-Só estou aprendendo C msm kk
+Repo para aprender sobre C.
+Curso: https://www.youtube.com/watch?v=87SH2Cn0s9A
