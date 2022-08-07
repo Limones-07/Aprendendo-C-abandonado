@@ -1,4 +1,4 @@
-# Aprendendo-C
+# Aprendendo C
 
 Repo para aprender sobre C.
 
